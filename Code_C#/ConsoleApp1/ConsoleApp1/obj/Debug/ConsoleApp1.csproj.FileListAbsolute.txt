@@ -1,0 +1,8 @@
+E:\Documents\GitHub\PRN211\Code_C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Documents\GitHub\PRN211\Code_C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Documents\GitHub\PRN211\Code_C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Documents\GitHub\PRN211\Code_C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Documents\GitHub\PRN211\Code_C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+E:\Documents\GitHub\PRN211\Code_C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\PRN211\Code_C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Documents\GitHub\PRN211\Code_C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
