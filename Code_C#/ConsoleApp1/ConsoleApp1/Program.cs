@@ -10,6 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+           
             //hiển thị ra màn hình
             Console.Write("Hello world!");
 
