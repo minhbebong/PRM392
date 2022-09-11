@@ -1,0 +1,15 @@
+E:\Documents\GitHub\PRN211\Code_C#\Tuple1\Tuple1\obj\Debug\net6.0\Tuple1.csproj.AssemblyReference.cache
+E:\Documents\GitHub\PRN211\Code_C#\Tuple1\Tuple1\obj\Debug\net6.0\Tuple1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\GitHub\PRN211\Code_C#\Tuple1\Tuple1\obj\Debug\net6.0\Tuple1.AssemblyInfoInputs.cache
+E:\Documents\GitHub\PRN211\Code_C#\Tuple1\Tuple1\obj\Debug\net6.0\Tuple1.AssemblyInfo.cs
+E:\Documents\GitHub\PRN211\Code_C#\Tuple1\Tuple1\obj\Debug\net6.0\Tuple1.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\PRN211\Code_C#\Tuple1\Tuple1\bin\Debug\net6.0\Tuple1.exe
+E:\Documents\GitHub\PRN211\Code_C#\Tuple1\Tuple1\bin\Debug\net6.0\Tuple1.deps.json
+E:\Documents\GitHub\PRN211\Code_C#\Tuple1\Tuple1\bin\Debug\net6.0\Tuple1.runtimeconfig.json
+E:\Documents\GitHub\PRN211\Code_C#\Tuple1\Tuple1\bin\Debug\net6.0\Tuple1.dll
+E:\Documents\GitHub\PRN211\Code_C#\Tuple1\Tuple1\bin\Debug\net6.0\Tuple1.pdb
+E:\Documents\GitHub\PRN211\Code_C#\Tuple1\Tuple1\obj\Debug\net6.0\Tuple1.dll
+E:\Documents\GitHub\PRN211\Code_C#\Tuple1\Tuple1\obj\Debug\net6.0\refint\Tuple1.dll
+E:\Documents\GitHub\PRN211\Code_C#\Tuple1\Tuple1\obj\Debug\net6.0\Tuple1.pdb
+E:\Documents\GitHub\PRN211\Code_C#\Tuple1\Tuple1\obj\Debug\net6.0\Tuple1.genruntimeconfig.cache
+E:\Documents\GitHub\PRN211\Code_C#\Tuple1\Tuple1\obj\Debug\net6.0\ref\Tuple1.dll

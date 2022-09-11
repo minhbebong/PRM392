@@ -1,0 +1,15 @@
+E:\Documents\GitHub\PRN211\Code_C#\Tuple\Tuple\obj\Debug\net6.0\Tuple.csproj.AssemblyReference.cache
+E:\Documents\GitHub\PRN211\Code_C#\Tuple\Tuple\obj\Debug\net6.0\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\GitHub\PRN211\Code_C#\Tuple\Tuple\obj\Debug\net6.0\Tuple.AssemblyInfoInputs.cache
+E:\Documents\GitHub\PRN211\Code_C#\Tuple\Tuple\obj\Debug\net6.0\Tuple.AssemblyInfo.cs
+E:\Documents\GitHub\PRN211\Code_C#\Tuple\Tuple\obj\Debug\net6.0\Tuple.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\PRN211\Code_C#\Tuple\Tuple\bin\Debug\net6.0\Tuple.exe
+E:\Documents\GitHub\PRN211\Code_C#\Tuple\Tuple\bin\Debug\net6.0\Tuple.deps.json
+E:\Documents\GitHub\PRN211\Code_C#\Tuple\Tuple\bin\Debug\net6.0\Tuple.runtimeconfig.json
+E:\Documents\GitHub\PRN211\Code_C#\Tuple\Tuple\bin\Debug\net6.0\Tuple.dll
+E:\Documents\GitHub\PRN211\Code_C#\Tuple\Tuple\bin\Debug\net6.0\Tuple.pdb
+E:\Documents\GitHub\PRN211\Code_C#\Tuple\Tuple\obj\Debug\net6.0\Tuple.dll
+E:\Documents\GitHub\PRN211\Code_C#\Tuple\Tuple\obj\Debug\net6.0\refint\Tuple.dll
+E:\Documents\GitHub\PRN211\Code_C#\Tuple\Tuple\obj\Debug\net6.0\Tuple.pdb
+E:\Documents\GitHub\PRN211\Code_C#\Tuple\Tuple\obj\Debug\net6.0\Tuple.genruntimeconfig.cache
+E:\Documents\GitHub\PRN211\Code_C#\Tuple\Tuple\obj\Debug\net6.0\ref\Tuple.dll

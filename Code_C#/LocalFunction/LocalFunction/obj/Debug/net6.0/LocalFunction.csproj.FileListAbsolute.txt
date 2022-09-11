@@ -1,0 +1,15 @@
+E:\Documents\GitHub\PRN211\Code_C#\LocalFunction\LocalFunction\bin\Debug\net6.0\LocalFunction.exe
+E:\Documents\GitHub\PRN211\Code_C#\LocalFunction\LocalFunction\bin\Debug\net6.0\LocalFunction.deps.json
+E:\Documents\GitHub\PRN211\Code_C#\LocalFunction\LocalFunction\bin\Debug\net6.0\LocalFunction.runtimeconfig.json
+E:\Documents\GitHub\PRN211\Code_C#\LocalFunction\LocalFunction\bin\Debug\net6.0\LocalFunction.dll
+E:\Documents\GitHub\PRN211\Code_C#\LocalFunction\LocalFunction\bin\Debug\net6.0\LocalFunction.pdb
+E:\Documents\GitHub\PRN211\Code_C#\LocalFunction\LocalFunction\obj\Debug\net6.0\LocalFunction.csproj.AssemblyReference.cache
+E:\Documents\GitHub\PRN211\Code_C#\LocalFunction\LocalFunction\obj\Debug\net6.0\LocalFunction.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\GitHub\PRN211\Code_C#\LocalFunction\LocalFunction\obj\Debug\net6.0\LocalFunction.AssemblyInfoInputs.cache
+E:\Documents\GitHub\PRN211\Code_C#\LocalFunction\LocalFunction\obj\Debug\net6.0\LocalFunction.AssemblyInfo.cs
+E:\Documents\GitHub\PRN211\Code_C#\LocalFunction\LocalFunction\obj\Debug\net6.0\LocalFunction.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\PRN211\Code_C#\LocalFunction\LocalFunction\obj\Debug\net6.0\LocalFunction.dll
+E:\Documents\GitHub\PRN211\Code_C#\LocalFunction\LocalFunction\obj\Debug\net6.0\refint\LocalFunction.dll
+E:\Documents\GitHub\PRN211\Code_C#\LocalFunction\LocalFunction\obj\Debug\net6.0\LocalFunction.pdb
+E:\Documents\GitHub\PRN211\Code_C#\LocalFunction\LocalFunction\obj\Debug\net6.0\LocalFunction.genruntimeconfig.cache
+E:\Documents\GitHub\PRN211\Code_C#\LocalFunction\LocalFunction\obj\Debug\net6.0\ref\LocalFunction.dll

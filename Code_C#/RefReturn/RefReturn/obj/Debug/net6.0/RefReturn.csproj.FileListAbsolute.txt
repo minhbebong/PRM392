@@ -1,0 +1,15 @@
+E:\Documents\GitHub\PRN211\Code_C#\RefReturn\RefReturn\bin\Debug\net6.0\RefReturn.exe
+E:\Documents\GitHub\PRN211\Code_C#\RefReturn\RefReturn\bin\Debug\net6.0\RefReturn.deps.json
+E:\Documents\GitHub\PRN211\Code_C#\RefReturn\RefReturn\bin\Debug\net6.0\RefReturn.runtimeconfig.json
+E:\Documents\GitHub\PRN211\Code_C#\RefReturn\RefReturn\bin\Debug\net6.0\RefReturn.dll
+E:\Documents\GitHub\PRN211\Code_C#\RefReturn\RefReturn\bin\Debug\net6.0\RefReturn.pdb
+E:\Documents\GitHub\PRN211\Code_C#\RefReturn\RefReturn\obj\Debug\net6.0\RefReturn.csproj.AssemblyReference.cache
+E:\Documents\GitHub\PRN211\Code_C#\RefReturn\RefReturn\obj\Debug\net6.0\RefReturn.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\GitHub\PRN211\Code_C#\RefReturn\RefReturn\obj\Debug\net6.0\RefReturn.AssemblyInfoInputs.cache
+E:\Documents\GitHub\PRN211\Code_C#\RefReturn\RefReturn\obj\Debug\net6.0\RefReturn.AssemblyInfo.cs
+E:\Documents\GitHub\PRN211\Code_C#\RefReturn\RefReturn\obj\Debug\net6.0\RefReturn.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\PRN211\Code_C#\RefReturn\RefReturn\obj\Debug\net6.0\RefReturn.dll
+E:\Documents\GitHub\PRN211\Code_C#\RefReturn\RefReturn\obj\Debug\net6.0\refint\RefReturn.dll
+E:\Documents\GitHub\PRN211\Code_C#\RefReturn\RefReturn\obj\Debug\net6.0\RefReturn.pdb
+E:\Documents\GitHub\PRN211\Code_C#\RefReturn\RefReturn\obj\Debug\net6.0\RefReturn.genruntimeconfig.cache
+E:\Documents\GitHub\PRN211\Code_C#\RefReturn\RefReturn\obj\Debug\net6.0\ref\RefReturn.dll
