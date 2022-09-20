@@ -1,0 +1,15 @@
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.M4_OOP\Interfaces\bin\Debug\net6.0\Interfaces.exe
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.M4_OOP\Interfaces\bin\Debug\net6.0\Interfaces.deps.json
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.M4_OOP\Interfaces\bin\Debug\net6.0\Interfaces.runtimeconfig.json
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.M4_OOP\Interfaces\bin\Debug\net6.0\Interfaces.dll
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.M4_OOP\Interfaces\bin\Debug\net6.0\Interfaces.pdb
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.M4_OOP\Interfaces\obj\Debug\net6.0\Interfaces.csproj.AssemblyReference.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.M4_OOP\Interfaces\obj\Debug\net6.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.M4_OOP\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfoInputs.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.M4_OOP\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfo.cs
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.M4_OOP\Interfaces\obj\Debug\net6.0\Interfaces.csproj.CoreCompileInputs.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.M4_OOP\Interfaces\obj\Debug\net6.0\Interfaces.dll
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.M4_OOP\Interfaces\obj\Debug\net6.0\refint\Interfaces.dll
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.M4_OOP\Interfaces\obj\Debug\net6.0\Interfaces.pdb
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.M4_OOP\Interfaces\obj\Debug\net6.0\Interfaces.genruntimeconfig.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.M4_OOP\Interfaces\obj\Debug\net6.0\ref\Interfaces.dll

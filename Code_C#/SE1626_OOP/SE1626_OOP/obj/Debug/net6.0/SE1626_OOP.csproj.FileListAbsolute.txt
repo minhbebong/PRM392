@@ -1,0 +1,5 @@
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_OOP\SE1626_OOP\obj\Debug\net6.0\SE1626_OOP.csproj.AssemblyReference.cache
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_OOP\SE1626_OOP\obj\Debug\net6.0\SE1626_OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_OOP\SE1626_OOP\obj\Debug\net6.0\SE1626_OOP.AssemblyInfoInputs.cache
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_OOP\SE1626_OOP\obj\Debug\net6.0\SE1626_OOP.AssemblyInfo.cs
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_OOP\SE1626_OOP\obj\Debug\net6.0\SE1626_OOP.csproj.CoreCompileInputs.cache

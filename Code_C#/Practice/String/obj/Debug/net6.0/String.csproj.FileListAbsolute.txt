@@ -1,0 +1,15 @@
+E:\Documents\GitHub\PRN211\Code_C#\Practice\String\obj\Debug\net6.0\String.csproj.AssemblyReference.cache
+E:\Documents\GitHub\PRN211\Code_C#\Practice\String\obj\Debug\net6.0\String.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\GitHub\PRN211\Code_C#\Practice\String\obj\Debug\net6.0\String.AssemblyInfoInputs.cache
+E:\Documents\GitHub\PRN211\Code_C#\Practice\String\obj\Debug\net6.0\String.AssemblyInfo.cs
+E:\Documents\GitHub\PRN211\Code_C#\Practice\String\obj\Debug\net6.0\String.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\PRN211\Code_C#\Practice\String\bin\Debug\net6.0\String.exe
+E:\Documents\GitHub\PRN211\Code_C#\Practice\String\bin\Debug\net6.0\String.deps.json
+E:\Documents\GitHub\PRN211\Code_C#\Practice\String\bin\Debug\net6.0\String.runtimeconfig.json
+E:\Documents\GitHub\PRN211\Code_C#\Practice\String\bin\Debug\net6.0\String.dll
+E:\Documents\GitHub\PRN211\Code_C#\Practice\String\bin\Debug\net6.0\String.pdb
+E:\Documents\GitHub\PRN211\Code_C#\Practice\String\obj\Debug\net6.0\String.dll
+E:\Documents\GitHub\PRN211\Code_C#\Practice\String\obj\Debug\net6.0\refint\String.dll
+E:\Documents\GitHub\PRN211\Code_C#\Practice\String\obj\Debug\net6.0\String.pdb
+E:\Documents\GitHub\PRN211\Code_C#\Practice\String\obj\Debug\net6.0\String.genruntimeconfig.cache
+E:\Documents\GitHub\PRN211\Code_C#\Practice\String\obj\Debug\net6.0\ref\String.dll

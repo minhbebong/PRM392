@@ -1,0 +1,15 @@
+E:\Documents\GitHub\PRN211\Code_C#\Practice\Practice\bin\Debug\net6.0\Practice.exe
+E:\Documents\GitHub\PRN211\Code_C#\Practice\Practice\bin\Debug\net6.0\Practice.deps.json
+E:\Documents\GitHub\PRN211\Code_C#\Practice\Practice\bin\Debug\net6.0\Practice.runtimeconfig.json
+E:\Documents\GitHub\PRN211\Code_C#\Practice\Practice\bin\Debug\net6.0\Practice.dll
+E:\Documents\GitHub\PRN211\Code_C#\Practice\Practice\bin\Debug\net6.0\Practice.pdb
+E:\Documents\GitHub\PRN211\Code_C#\Practice\Practice\obj\Debug\net6.0\Practice.csproj.AssemblyReference.cache
+E:\Documents\GitHub\PRN211\Code_C#\Practice\Practice\obj\Debug\net6.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\GitHub\PRN211\Code_C#\Practice\Practice\obj\Debug\net6.0\Practice.AssemblyInfoInputs.cache
+E:\Documents\GitHub\PRN211\Code_C#\Practice\Practice\obj\Debug\net6.0\Practice.AssemblyInfo.cs
+E:\Documents\GitHub\PRN211\Code_C#\Practice\Practice\obj\Debug\net6.0\Practice.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\PRN211\Code_C#\Practice\Practice\obj\Debug\net6.0\Practice.dll
+E:\Documents\GitHub\PRN211\Code_C#\Practice\Practice\obj\Debug\net6.0\refint\Practice.dll
+E:\Documents\GitHub\PRN211\Code_C#\Practice\Practice\obj\Debug\net6.0\Practice.pdb
+E:\Documents\GitHub\PRN211\Code_C#\Practice\Practice\obj\Debug\net6.0\Practice.genruntimeconfig.cache
+E:\Documents\GitHub\PRN211\Code_C#\Practice\Practice\obj\Debug\net6.0\ref\Practice.dll

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PRN211.E4_Console1": {
+      "commandName": "Project",
+      "commandLineArgs": "Welcome PRN211.E4"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.E4_Console1\LocalFunction\bin\Debug\net6.0\LocalFunction.exe
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.E4_Console1\LocalFunction\bin\Debug\net6.0\LocalFunction.deps.json
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.E4_Console1\LocalFunction\bin\Debug\net6.0\LocalFunction.runtimeconfig.json
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.E4_Console1\LocalFunction\bin\Debug\net6.0\LocalFunction.dll
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.E4_Console1\LocalFunction\bin\Debug\net6.0\LocalFunction.pdb
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.E4_Console1\LocalFunction\obj\Debug\net6.0\LocalFunction.csproj.AssemblyReference.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.E4_Console1\LocalFunction\obj\Debug\net6.0\LocalFunction.GeneratedMSBuildEditorConfig.editorconfig
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.E4_Console1\LocalFunction\obj\Debug\net6.0\LocalFunction.AssemblyInfoInputs.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.E4_Console1\LocalFunction\obj\Debug\net6.0\LocalFunction.AssemblyInfo.cs
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.E4_Console1\LocalFunction\obj\Debug\net6.0\LocalFunction.csproj.CoreCompileInputs.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.E4_Console1\LocalFunction\obj\Debug\net6.0\LocalFunction.dll
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.E4_Console1\LocalFunction\obj\Debug\net6.0\refint\LocalFunction.dll
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.E4_Console1\LocalFunction\obj\Debug\net6.0\LocalFunction.pdb
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.E4_Console1\LocalFunction\obj\Debug\net6.0\LocalFunction.genruntimeconfig.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211.E4_Console1\LocalFunction\obj\Debug\net6.0\ref\LocalFunction.dll
