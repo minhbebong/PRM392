@@ -1,0 +1,15 @@
+E:\Downloads\HE151002_MinhND_PT1\Q1\Q1\obj\Debug\net6.0\Q1.csproj.AssemblyReference.cache
+E:\Downloads\HE151002_MinhND_PT1\Q1\Q1\obj\Debug\net6.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\HE151002_MinhND_PT1\Q1\Q1\obj\Debug\net6.0\Q1.AssemblyInfoInputs.cache
+E:\Downloads\HE151002_MinhND_PT1\Q1\Q1\obj\Debug\net6.0\Q1.AssemblyInfo.cs
+E:\Downloads\HE151002_MinhND_PT1\Q1\Q1\obj\Debug\net6.0\Q1.csproj.CoreCompileInputs.cache
+E:\Downloads\HE151002_MinhND_PT1\Q1\Q1\bin\Debug\net6.0\Q1.exe
+E:\Downloads\HE151002_MinhND_PT1\Q1\Q1\bin\Debug\net6.0\Q1.deps.json
+E:\Downloads\HE151002_MinhND_PT1\Q1\Q1\bin\Debug\net6.0\Q1.runtimeconfig.json
+E:\Downloads\HE151002_MinhND_PT1\Q1\Q1\bin\Debug\net6.0\Q1.dll
+E:\Downloads\HE151002_MinhND_PT1\Q1\Q1\bin\Debug\net6.0\Q1.pdb
+E:\Downloads\HE151002_MinhND_PT1\Q1\Q1\obj\Debug\net6.0\Q1.dll
+E:\Downloads\HE151002_MinhND_PT1\Q1\Q1\obj\Debug\net6.0\refint\Q1.dll
+E:\Downloads\HE151002_MinhND_PT1\Q1\Q1\obj\Debug\net6.0\Q1.pdb
+E:\Downloads\HE151002_MinhND_PT1\Q1\Q1\obj\Debug\net6.0\Q1.genruntimeconfig.cache
+E:\Downloads\HE151002_MinhND_PT1\Q1\Q1\obj\Debug\net6.0\ref\Q1.dll
