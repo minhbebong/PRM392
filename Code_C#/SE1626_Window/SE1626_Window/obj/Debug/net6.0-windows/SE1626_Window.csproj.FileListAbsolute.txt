@@ -1,0 +1,17 @@
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_Window\SE1626_Window\bin\Debug\net6.0-windows\SE1626_Window.exe
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_Window\SE1626_Window\bin\Debug\net6.0-windows\SE1626_Window.deps.json
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_Window\SE1626_Window\bin\Debug\net6.0-windows\SE1626_Window.runtimeconfig.json
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_Window\SE1626_Window\bin\Debug\net6.0-windows\SE1626_Window.dll
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_Window\SE1626_Window\bin\Debug\net6.0-windows\SE1626_Window.pdb
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_Window\SE1626_Window\obj\Debug\net6.0-windows\SE1626_Window.csproj.AssemblyReference.cache
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_Window\SE1626_Window\obj\Debug\net6.0-windows\SE1626_Window.Form1.resources
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_Window\SE1626_Window\obj\Debug\net6.0-windows\SE1626_Window.csproj.GenerateResource.cache
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_Window\SE1626_Window\obj\Debug\net6.0-windows\SE1626_Window.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_Window\SE1626_Window\obj\Debug\net6.0-windows\SE1626_Window.AssemblyInfoInputs.cache
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_Window\SE1626_Window\obj\Debug\net6.0-windows\SE1626_Window.AssemblyInfo.cs
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_Window\SE1626_Window\obj\Debug\net6.0-windows\SE1626_Window.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_Window\SE1626_Window\obj\Debug\net6.0-windows\SE1626_Window.dll
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_Window\SE1626_Window\obj\Debug\net6.0-windows\refint\SE1626_Window.dll
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_Window\SE1626_Window\obj\Debug\net6.0-windows\SE1626_Window.pdb
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_Window\SE1626_Window\obj\Debug\net6.0-windows\SE1626_Window.genruntimeconfig.cache
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_Window\SE1626_Window\obj\Debug\net6.0-windows\ref\SE1626_Window.dll
