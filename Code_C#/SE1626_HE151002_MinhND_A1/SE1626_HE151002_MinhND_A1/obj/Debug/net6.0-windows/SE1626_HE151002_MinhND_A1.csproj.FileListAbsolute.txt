@@ -1,0 +1,10 @@
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_HE151002_MinhND_A1\SE1626_HE151002_MinhND_A1\obj\Debug\net6.0-windows\SE1626_HE151002_MinhND_A1.csproj.AssemblyReference.cache
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_HE151002_MinhND_A1\SE1626_HE151002_MinhND_A1\obj\Debug\net6.0-windows\SE1626_HE151002_MinhND_A1.CarAddEditGUI.resources
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_HE151002_MinhND_A1\SE1626_HE151002_MinhND_A1\obj\Debug\net6.0-windows\SE1626_HE151002_MinhND_A1.CarDetailGUI.resources
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_HE151002_MinhND_A1\SE1626_HE151002_MinhND_A1\obj\Debug\net6.0-windows\SE1626_HE151002_MinhND_A1.CarGUI.resources
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_HE151002_MinhND_A1\SE1626_HE151002_MinhND_A1\obj\Debug\net6.0-windows\SE1626_HE151002_MinhND_A1.LoginGUI.resources
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_HE151002_MinhND_A1\SE1626_HE151002_MinhND_A1\obj\Debug\net6.0-windows\SE1626_HE151002_MinhND_A1.csproj.GenerateResource.cache
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_HE151002_MinhND_A1\SE1626_HE151002_MinhND_A1\obj\Debug\net6.0-windows\SE1626_HE151002_MinhND_A1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_HE151002_MinhND_A1\SE1626_HE151002_MinhND_A1\obj\Debug\net6.0-windows\SE1626_HE151002_MinhND_A1.AssemblyInfoInputs.cache
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_HE151002_MinhND_A1\SE1626_HE151002_MinhND_A1\obj\Debug\net6.0-windows\SE1626_HE151002_MinhND_A1.AssemblyInfo.cs
+E:\Documents\GitHub\PRN211\Code_C#\SE1626_HE151002_MinhND_A1\SE1626_HE151002_MinhND_A1\obj\Debug\net6.0-windows\SE1626_HE151002_MinhND_A1.csproj.CoreCompileInputs.cache
