@@ -1,0 +1,89 @@
+D:\FPT\Fall 2022\PRN211\PRN211_M4_Group7_A2\PRN211_M4_Group7_A2\bin\Debug\net6.0-windows\Resources\Images\Debug\net6.0-windows\SE1626_Group6_A2.exe
+D:\FPT\Fall 2022\PRN211\PRN211_M4_Group7_A2\PRN211_M4_Group7_A2\bin\Debug\net6.0-windows\Resources\Images\Debug\net6.0-windows\appsettings.json
+D:\FPT\Fall 2022\PRN211\PRN211_M4_Group7_A2\PRN211_M4_Group7_A2\bin\Debug\net6.0-windows\Resources\Images\Debug\net6.0-windows\SE1626_Group6_A2.deps.json
+D:\FPT\Fall 2022\PRN211\PRN211_M4_Group7_A2\PRN211_M4_Group7_A2\bin\Debug\net6.0-windows\Resources\Images\Debug\net6.0-windows\SE1626_Group6_A2.runtimeconfig.json
+D:\FPT\Fall 2022\PRN211\PRN211_M4_Group7_A2\PRN211_M4_Group7_A2\bin\Debug\net6.0-windows\Resources\Images\Debug\net6.0-windows\SE1626_Group6_A2.dll
+D:\FPT\Fall 2022\PRN211\PRN211_M4_Group7_A2\PRN211_M4_Group7_A2\bin\Debug\net6.0-windows\Resources\Images\Debug\net6.0-windows\SE1626_Group6_A2.pdb
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\PRN211_M4_Group7_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\PRN211_M4_Group7_A2\obj\Debug\net6.0-windows\PRN211_M4_Group7_A2.GUI.AlbumAddEditGUI.resources
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\PRN211_M4_Group7_A2\obj\Debug\net6.0-windows\PRN211_M4_Group7_A2.GUI.AlbumsGUI.resources
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\PRN211_M4_Group7_A2\obj\Debug\net6.0-windows\PRN211_M4_Group7_A2.GUI.CartGUI.resources
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\PRN211_M4_Group7_A2\obj\Debug\net6.0-windows\PRN211_M4_Group7_A2.GUI.CheckoutGUI.resources
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\PRN211_M4_Group7_A2\obj\Debug\net6.0-windows\PRN211_M4_Group7_A2.GUI.LoginGUI.resources
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\PRN211_M4_Group7_A2\obj\Debug\net6.0-windows\PRN211_M4_Group7_A2.MainGUI.resources
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\PRN211_M4_Group7_A2\obj\Debug\net6.0-windows\PRN211_M4_Group7_A2.GUI.ShoppingGUI.resources
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\PRN211_M4_Group7_A2\obj\Debug\net6.0-windows\PRN211_M4_Group7_A2.GUI.TestUpLoadImage.resources
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\PRN211_M4_Group7_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\PRN211_M4_Group7_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\PRN211_M4_Group7_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\PRN211_M4_Group7_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\PRN211_M4_Group7_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\PRN211_M4_Group7_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.csproj.CopyComplete
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\PRN211_M4_Group7_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.dll
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\PRN211_M4_Group7_A2\obj\Debug\net6.0-windows\refint\SE1626_Group6_A2.dll
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\PRN211_M4_Group7_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.pdb
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\PRN211_M4_Group7_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\PRN211_M4_Group7_A2\obj\Debug\net6.0-windows\ref\SE1626_Group6_A2.dll
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\PRN211_M4_Group7_A2.GUI.AlbumAddEditGUI.resources
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\PRN211_M4_Group7_A2.GUI.AlbumsGUI.resources
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\PRN211_M4_Group7_A2.GUI.CartGUI.resources
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\PRN211_M4_Group7_A2.GUI.CheckoutGUI.resources
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\PRN211_M4_Group7_A2.GUI.LoginGUI.resources
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\PRN211_M4_Group7_A2.MainGUI.resources
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\PRN211_M4_Group7_A2.GUI.ShoppingGUI.resources
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\PRN211_M4_Group7_A2.GUI.TestUpLoadImage.resources
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.csproj.CopyComplete
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.dll
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\refint\SE1626_Group6_A2.dll
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.pdb
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\PRN211_M4_Group7_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\ref\SE1626_Group6_A2.dll
+D:\FPT\Fall 2022\PRN211\SE1626_Group6_A2\SE1626_Group6_A2\bin\Debug\net6.0-windows\Resources\Images\Debug\net6.0-windows\SE1626_Group6_A2.exe
+D:\FPT\Fall 2022\PRN211\SE1626_Group6_A2\SE1626_Group6_A2\bin\Debug\net6.0-windows\Resources\Images\Debug\net6.0-windows\appsettings.json
+D:\FPT\Fall 2022\PRN211\SE1626_Group6_A2\SE1626_Group6_A2\bin\Debug\net6.0-windows\Resources\Images\Debug\net6.0-windows\SE1626_Group6_A2.deps.json
+D:\FPT\Fall 2022\PRN211\SE1626_Group6_A2\SE1626_Group6_A2\bin\Debug\net6.0-windows\Resources\Images\Debug\net6.0-windows\SE1626_Group6_A2.runtimeconfig.json
+D:\FPT\Fall 2022\PRN211\SE1626_Group6_A2\SE1626_Group6_A2\bin\Debug\net6.0-windows\Resources\Images\Debug\net6.0-windows\SE1626_Group6_A2.dll
+D:\FPT\Fall 2022\PRN211\SE1626_Group6_A2\SE1626_Group6_A2\bin\Debug\net6.0-windows\Resources\Images\Debug\net6.0-windows\SE1626_Group6_A2.pdb
+D:\Thien Coder\C#\SE1626_Group6_A2(1)\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.csproj.AssemblyReference.cache
+D:\Thien Coder\C#\SE1626_Group6_A2(1)\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.GUI.AlbumAddEditGUI.resources
+D:\Thien Coder\C#\SE1626_Group6_A2(1)\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.GUI.AlbumsGUI.resources
+D:\Thien Coder\C#\SE1626_Group6_A2(1)\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.GUI.CartGUI.resources
+D:\Thien Coder\C#\SE1626_Group6_A2(1)\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.GUI.CheckoutGUI.resources
+D:\Thien Coder\C#\SE1626_Group6_A2(1)\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.GUI.LoginGUI.resources
+D:\Thien Coder\C#\SE1626_Group6_A2(1)\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.MainGUI.resources
+D:\Thien Coder\C#\SE1626_Group6_A2(1)\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.GUI.ShoppingGUI.resources
+D:\Thien Coder\C#\SE1626_Group6_A2(1)\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.GUI.TestUpLoadImage.resources
+D:\Thien Coder\C#\SE1626_Group6_A2(1)\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.csproj.GenerateResource.cache
+D:\Thien Coder\C#\SE1626_Group6_A2(1)\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thien Coder\C#\SE1626_Group6_A2(1)\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.AssemblyInfoInputs.cache
+D:\Thien Coder\C#\SE1626_Group6_A2(1)\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.AssemblyInfo.cs
+D:\Thien Coder\C#\SE1626_Group6_A2(1)\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.csproj.CoreCompileInputs.cache
+D:\Thien Coder\C#\SE1626_Group6_A2(1)\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.csproj.CopyComplete
+D:\Thien Coder\C#\SE1626_Group6_A2(1)\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.dll
+D:\Thien Coder\C#\SE1626_Group6_A2(1)\SE1626_Group6_A2\obj\Debug\net6.0-windows\refint\SE1626_Group6_A2.dll
+D:\Thien Coder\C#\SE1626_Group6_A2(1)\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.pdb
+D:\Thien Coder\C#\SE1626_Group6_A2(1)\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.genruntimeconfig.cache
+D:\Thien Coder\C#\SE1626_Group6_A2(1)\SE1626_Group6_A2\obj\Debug\net6.0-windows\ref\SE1626_Group6_A2.dll
+E:\Downloads\SE1626_Group6_A2\SE1626_Group6_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.csproj.AssemblyReference.cache
+E:\Downloads\SE1626_Group6_A2\SE1626_Group6_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.GUI.AlbumAddEditGUI.resources
+E:\Downloads\SE1626_Group6_A2\SE1626_Group6_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.GUI.AlbumsGUI.resources
+E:\Downloads\SE1626_Group6_A2\SE1626_Group6_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.GUI.CartGUI.resources
+E:\Downloads\SE1626_Group6_A2\SE1626_Group6_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.GUI.CheckoutGUI.resources
+E:\Downloads\SE1626_Group6_A2\SE1626_Group6_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.GUI.LoginGUI.resources
+E:\Downloads\SE1626_Group6_A2\SE1626_Group6_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.MainGUI.resources
+E:\Downloads\SE1626_Group6_A2\SE1626_Group6_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.GUI.ShoppingGUI.resources
+E:\Downloads\SE1626_Group6_A2\SE1626_Group6_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.GUI.TestUpLoadImage.resources
+E:\Downloads\SE1626_Group6_A2\SE1626_Group6_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.csproj.GenerateResource.cache
+E:\Downloads\SE1626_Group6_A2\SE1626_Group6_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\SE1626_Group6_A2\SE1626_Group6_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.AssemblyInfoInputs.cache
+E:\Downloads\SE1626_Group6_A2\SE1626_Group6_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.AssemblyInfo.cs
+E:\Downloads\SE1626_Group6_A2\SE1626_Group6_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.csproj.CoreCompileInputs.cache
+E:\Downloads\SE1626_Group6_A2\SE1626_Group6_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.dll
+E:\Downloads\SE1626_Group6_A2\SE1626_Group6_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\refint\SE1626_Group6_A2.dll
+E:\Downloads\SE1626_Group6_A2\SE1626_Group6_A2\SE1626_Group6_A2\obj\Debug\net6.0-windows\SE1626_Group6_A2.pdb

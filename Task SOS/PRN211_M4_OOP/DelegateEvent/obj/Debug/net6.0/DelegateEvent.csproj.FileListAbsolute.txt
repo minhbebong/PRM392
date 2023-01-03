@@ -1,0 +1,15 @@
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\DelegateEvent\bin\Debug\net6.0\DelegateEvent.exe
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\DelegateEvent\bin\Debug\net6.0\DelegateEvent.deps.json
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\DelegateEvent\bin\Debug\net6.0\DelegateEvent.runtimeconfig.json
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\DelegateEvent\bin\Debug\net6.0\DelegateEvent.dll
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\DelegateEvent\bin\Debug\net6.0\DelegateEvent.pdb
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\DelegateEvent\obj\Debug\net6.0\DelegateEvent.csproj.AssemblyReference.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\DelegateEvent\obj\Debug\net6.0\DelegateEvent.GeneratedMSBuildEditorConfig.editorconfig
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\DelegateEvent\obj\Debug\net6.0\DelegateEvent.AssemblyInfoInputs.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\DelegateEvent\obj\Debug\net6.0\DelegateEvent.AssemblyInfo.cs
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\DelegateEvent\obj\Debug\net6.0\DelegateEvent.csproj.CoreCompileInputs.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\DelegateEvent\obj\Debug\net6.0\DelegateEvent.dll
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\DelegateEvent\obj\Debug\net6.0\refint\DelegateEvent.dll
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\DelegateEvent\obj\Debug\net6.0\DelegateEvent.pdb
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\DelegateEvent\obj\Debug\net6.0\DelegateEvent.genruntimeconfig.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\DelegateEvent\obj\Debug\net6.0\ref\DelegateEvent.dll

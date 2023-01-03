@@ -1,0 +1,15 @@
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\Polymorphism\bin\Debug\net6.0\Polymorphism.exe
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\Polymorphism\bin\Debug\net6.0\Polymorphism.deps.json
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\Polymorphism\bin\Debug\net6.0\Polymorphism.runtimeconfig.json
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\Polymorphism\bin\Debug\net6.0\Polymorphism.dll
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\Polymorphism\bin\Debug\net6.0\Polymorphism.pdb
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.AssemblyReference.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\Polymorphism\obj\Debug\net6.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfoInputs.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfo.cs
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.CoreCompileInputs.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\Polymorphism\obj\Debug\net6.0\Polymorphism.dll
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\Polymorphism\obj\Debug\net6.0\refint\Polymorphism.dll
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\Polymorphism\obj\Debug\net6.0\Polymorphism.pdb
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\Polymorphism\obj\Debug\net6.0\Polymorphism.genruntimeconfig.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\Polymorphism\obj\Debug\net6.0\ref\Polymorphism.dll

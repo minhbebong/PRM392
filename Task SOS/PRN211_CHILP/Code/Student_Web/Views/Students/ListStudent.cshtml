@@ -1,0 +1,31 @@
+﻿@using Student_Web.Models
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h1>List All Students</h1>
+
+<div>
+    <table>
+        <thead>
+            <th>ID</th>
+            <th>Roll</th>
+            <th>First Name</th>
+            <th>Mid Name</th>
+            <th>Last Name</th>
+        </thead>
+        <tbody>
+            @foreach(Student s in @Model){
+            <tr>
+                <td>@s.StudentId</td>
+                <td>@s.Roll</td>
+                <td>@s.FirstName</td>
+                <td>@s.MidName</td>
+                <td>@s.LastName</td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>

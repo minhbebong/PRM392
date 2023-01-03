@@ -1,0 +1,13 @@
+{
+  "ConnectionStrings": {
+    "MyConstr": "server=Localhost;database=prnSQL;user=sa;password=123456"
+  },
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ]
+}

@@ -1,0 +1,16 @@
+D:\FPT University\SUMMER 2022\HE150726_ANHNHT_PRN211\PE_Trial_1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\FPT University\SUMMER 2022\HE150726_ANHNHT_PRN211\PE_Trial_1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\FPT University\SUMMER 2022\HE150726_ANHNHT_PRN211\PE_Trial_1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\FPT University\SUMMER 2022\HE150726_ANHNHT_PRN211\PE_Trial_1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\FPT University\SUMMER 2022\HE150726_ANHNHT_PRN211\PE_Trial_1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\FPT University\SUMMER 2022\HE150726_ANHNHT_PRN211\PE_Trial_1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\FPT University\SUMMER 2022\HE150726_ANHNHT_PRN211\PE_Trial_1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\FPT University\SUMMER 2022\HE150726_ANHNHT_PRN211\PE_Trial_1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT University\SUMMER 2022\HE150726_ANHNHT_PRN211\PE_Trial_1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\FPT University\SUMMER 2022\HE150726_ANHNHT_PRN211\PE_Trial_1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\FPT University\SUMMER 2022\HE150726_ANHNHT_PRN211\PE_Trial_1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\FPT University\SUMMER 2022\HE150726_ANHNHT_PRN211\PE_Trial_1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\FPT University\SUMMER 2022\HE150726_ANHNHT_PRN211\PE_Trial_1\ConsoleApp1\obj\Debug\net5.0\refint\ConsoleApp1.dll
+D:\FPT University\SUMMER 2022\HE150726_ANHNHT_PRN211\PE_Trial_1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\FPT University\SUMMER 2022\HE150726_ANHNHT_PRN211\PE_Trial_1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+D:\FPT University\SUMMER 2022\HE150726_ANHNHT_PRN211\PE_Trial_1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll

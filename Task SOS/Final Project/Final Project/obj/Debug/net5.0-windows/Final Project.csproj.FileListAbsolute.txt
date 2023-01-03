@@ -1,0 +1,23 @@
+E:\PRN211\Final Project\Final Project\bin\Debug\net5.0-windows\Final Project.exe
+E:\PRN211\Final Project\Final Project\bin\Debug\net5.0-windows\Final Project.dll.config
+E:\PRN211\Final Project\Final Project\bin\Debug\net5.0-windows\Final Project.deps.json
+E:\PRN211\Final Project\Final Project\bin\Debug\net5.0-windows\Final Project.runtimeconfig.json
+E:\PRN211\Final Project\Final Project\bin\Debug\net5.0-windows\Final Project.runtimeconfig.dev.json
+E:\PRN211\Final Project\Final Project\bin\Debug\net5.0-windows\Final Project.dll
+E:\PRN211\Final Project\Final Project\bin\Debug\net5.0-windows\Final Project.pdb
+E:\PRN211\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.csproj.AssemblyReference.cache
+E:\PRN211\Final Project\Final Project\obj\Debug\net5.0-windows\Final_Project.Home.resources
+E:\PRN211\Final Project\Final Project\obj\Debug\net5.0-windows\Final_Project.Login.resources
+E:\PRN211\Final Project\Final Project\obj\Debug\net5.0-windows\Final_Project.NhapHang.resources
+E:\PRN211\Final Project\Final Project\obj\Debug\net5.0-windows\Final_Project.Tracuu.resources
+E:\PRN211\Final Project\Final Project\obj\Debug\net5.0-windows\Final_Project.Xuat_Hang.resources
+E:\PRN211\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.csproj.GenerateResource.cache
+E:\PRN211\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN211\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.AssemblyInfoInputs.cache
+E:\PRN211\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.AssemblyInfo.cs
+E:\PRN211\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.csproj.CoreCompileInputs.cache
+E:\PRN211\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.dll
+E:\PRN211\Final Project\Final Project\obj\Debug\net5.0-windows\refint\Final Project.dll
+E:\PRN211\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.pdb
+E:\PRN211\Final Project\Final Project\obj\Debug\net5.0-windows\Final Project.genruntimeconfig.cache
+E:\PRN211\Final Project\Final Project\obj\Debug\net5.0-windows\ref\Final Project.dll

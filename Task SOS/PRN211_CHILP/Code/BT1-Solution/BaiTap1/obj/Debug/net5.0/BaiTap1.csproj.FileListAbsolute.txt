@@ -1,0 +1,16 @@
+D:\FPT University\SUMMER 2022\PRN211\BT1-Solution\BaiTap1\bin\Debug\net5.0\BaiTap1.exe
+D:\FPT University\SUMMER 2022\PRN211\BT1-Solution\BaiTap1\bin\Debug\net5.0\BaiTap1.deps.json
+D:\FPT University\SUMMER 2022\PRN211\BT1-Solution\BaiTap1\bin\Debug\net5.0\BaiTap1.runtimeconfig.json
+D:\FPT University\SUMMER 2022\PRN211\BT1-Solution\BaiTap1\bin\Debug\net5.0\BaiTap1.runtimeconfig.dev.json
+D:\FPT University\SUMMER 2022\PRN211\BT1-Solution\BaiTap1\bin\Debug\net5.0\BaiTap1.dll
+D:\FPT University\SUMMER 2022\PRN211\BT1-Solution\BaiTap1\bin\Debug\net5.0\BaiTap1.pdb
+D:\FPT University\SUMMER 2022\PRN211\BT1-Solution\BaiTap1\obj\Debug\net5.0\BaiTap1.csproj.AssemblyReference.cache
+D:\FPT University\SUMMER 2022\PRN211\BT1-Solution\BaiTap1\obj\Debug\net5.0\BaiTap1.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT University\SUMMER 2022\PRN211\BT1-Solution\BaiTap1\obj\Debug\net5.0\BaiTap1.AssemblyInfoInputs.cache
+D:\FPT University\SUMMER 2022\PRN211\BT1-Solution\BaiTap1\obj\Debug\net5.0\BaiTap1.AssemblyInfo.cs
+D:\FPT University\SUMMER 2022\PRN211\BT1-Solution\BaiTap1\obj\Debug\net5.0\BaiTap1.csproj.CoreCompileInputs.cache
+D:\FPT University\SUMMER 2022\PRN211\BT1-Solution\BaiTap1\obj\Debug\net5.0\BaiTap1.dll
+D:\FPT University\SUMMER 2022\PRN211\BT1-Solution\BaiTap1\obj\Debug\net5.0\refint\BaiTap1.dll
+D:\FPT University\SUMMER 2022\PRN211\BT1-Solution\BaiTap1\obj\Debug\net5.0\BaiTap1.pdb
+D:\FPT University\SUMMER 2022\PRN211\BT1-Solution\BaiTap1\obj\Debug\net5.0\BaiTap1.genruntimeconfig.cache
+D:\FPT University\SUMMER 2022\PRN211\BT1-Solution\BaiTap1\obj\Debug\net5.0\ref\BaiTap1.dll

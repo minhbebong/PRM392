@@ -1,0 +1,15 @@
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\PRN211_M4_OOP\bin\Debug\net6.0\PRN211_M4_OOP.exe
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\PRN211_M4_OOP\bin\Debug\net6.0\PRN211_M4_OOP.deps.json
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\PRN211_M4_OOP\bin\Debug\net6.0\PRN211_M4_OOP.runtimeconfig.json
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\PRN211_M4_OOP\bin\Debug\net6.0\PRN211_M4_OOP.dll
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\PRN211_M4_OOP\bin\Debug\net6.0\PRN211_M4_OOP.pdb
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\PRN211_M4_OOP\obj\Debug\net6.0\PRN211_M4_OOP.csproj.AssemblyReference.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\PRN211_M4_OOP\obj\Debug\net6.0\PRN211_M4_OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\PRN211_M4_OOP\obj\Debug\net6.0\PRN211_M4_OOP.AssemblyInfoInputs.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\PRN211_M4_OOP\obj\Debug\net6.0\PRN211_M4_OOP.AssemblyInfo.cs
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\PRN211_M4_OOP\obj\Debug\net6.0\PRN211_M4_OOP.csproj.CoreCompileInputs.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\PRN211_M4_OOP\obj\Debug\net6.0\PRN211_M4_OOP.dll
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\PRN211_M4_OOP\obj\Debug\net6.0\refint\PRN211_M4_OOP.dll
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\PRN211_M4_OOP\obj\Debug\net6.0\PRN211_M4_OOP.pdb
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\PRN211_M4_OOP\obj\Debug\net6.0\PRN211_M4_OOP.genruntimeconfig.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\PRN211_M4_OOP\obj\Debug\net6.0\ref\PRN211_M4_OOP.dll

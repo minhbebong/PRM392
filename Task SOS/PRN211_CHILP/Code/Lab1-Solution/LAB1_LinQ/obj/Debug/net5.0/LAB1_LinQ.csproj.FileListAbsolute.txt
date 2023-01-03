@@ -1,0 +1,16 @@
+D:\FPT University\SUMMER 2022\PRN211\Lab1-Solution\LAB1_LinQ\bin\Debug\net5.0\LAB1_LinQ.exe
+D:\FPT University\SUMMER 2022\PRN211\Lab1-Solution\LAB1_LinQ\bin\Debug\net5.0\LAB1_LinQ.deps.json
+D:\FPT University\SUMMER 2022\PRN211\Lab1-Solution\LAB1_LinQ\bin\Debug\net5.0\LAB1_LinQ.runtimeconfig.json
+D:\FPT University\SUMMER 2022\PRN211\Lab1-Solution\LAB1_LinQ\bin\Debug\net5.0\LAB1_LinQ.runtimeconfig.dev.json
+D:\FPT University\SUMMER 2022\PRN211\Lab1-Solution\LAB1_LinQ\bin\Debug\net5.0\LAB1_LinQ.dll
+D:\FPT University\SUMMER 2022\PRN211\Lab1-Solution\LAB1_LinQ\bin\Debug\net5.0\LAB1_LinQ.pdb
+D:\FPT University\SUMMER 2022\PRN211\Lab1-Solution\LAB1_LinQ\obj\Debug\net5.0\LAB1_LinQ.csproj.AssemblyReference.cache
+D:\FPT University\SUMMER 2022\PRN211\Lab1-Solution\LAB1_LinQ\obj\Debug\net5.0\LAB1_LinQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT University\SUMMER 2022\PRN211\Lab1-Solution\LAB1_LinQ\obj\Debug\net5.0\LAB1_LinQ.AssemblyInfoInputs.cache
+D:\FPT University\SUMMER 2022\PRN211\Lab1-Solution\LAB1_LinQ\obj\Debug\net5.0\LAB1_LinQ.AssemblyInfo.cs
+D:\FPT University\SUMMER 2022\PRN211\Lab1-Solution\LAB1_LinQ\obj\Debug\net5.0\LAB1_LinQ.csproj.CoreCompileInputs.cache
+D:\FPT University\SUMMER 2022\PRN211\Lab1-Solution\LAB1_LinQ\obj\Debug\net5.0\LAB1_LinQ.dll
+D:\FPT University\SUMMER 2022\PRN211\Lab1-Solution\LAB1_LinQ\obj\Debug\net5.0\refint\LAB1_LinQ.dll
+D:\FPT University\SUMMER 2022\PRN211\Lab1-Solution\LAB1_LinQ\obj\Debug\net5.0\LAB1_LinQ.pdb
+D:\FPT University\SUMMER 2022\PRN211\Lab1-Solution\LAB1_LinQ\obj\Debug\net5.0\LAB1_LinQ.genruntimeconfig.cache
+D:\FPT University\SUMMER 2022\PRN211\Lab1-Solution\LAB1_LinQ\obj\Debug\net5.0\ref\LAB1_LinQ.dll

@@ -1,0 +1,68 @@
+----- Connect DB fix mềm for web ASP .NET
+if (!optionsBuilder.IsConfigured)
+{
+   var config = new ConfigurationBuilder().AddJsonFile("appsettings.json").Build();
+   optionsBuilder.UseSqlServer(config.GetConnectionString("ApConStr"));
+}
+
+-----------Generate models by entity framework
+dotnet ef dbcontext scaffold "server=TIEN-ANH-NH;database=PRN292_Spr2020_B2;user=sa;password=123456" Microsoft.EntityFrameworkCore.SqlServer -o Models
+------------ datagirdviewCellClick
+
+DataGridViewButtonColumn detailCol = new DataGridViewButtonColumn();
+            detailCol.Name = "detailCol";
+            detailCol.Text = "Detail";
+            detailCol.UseColumnTextForButtonValue = true;
+            dtgCourses.Columns.Add(detailCol);
+            LoadData();
+
+if (e.RowIndex < 0 || e.ColumnIndex < 0) return;
+            if (dataGridView1.Columns[e.ColumnIndex].Name.Equals("Action"))
+            {
+                string STid = dataGridView1.Rows[e.RowIndex].Cells["StudentId"].Value.ToString();
+                using (var context = new APContext())
+                {
+                    Student_Course stc = new Student_Course(Convert.ToInt32(currentID), Convert.ToInt32(STid));
+                    context.StudentCourses.Remove(stc);
+                    context.SaveChanges();
+                    MessageBox.Show("Delete successfully!");
+                }
+                loadForm();
+            }
+
+
+---------- messagebox confirm
+
+public Boolean winCf()
+{
+    if (DialogResult.Yes == MessageBox.Show("Do You Want Delete ?", "Confirmation", MessageBoxButtons.YesNo, MessageBoxIcon.Warning))
+        return true;
+    else
+        return false;
+}
+
+
+--------------web asp .net
+
+app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapControllerRoute(
+                    name: "default",
+                    pattern: "{controller}/{action}"
+                    );
+            });
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapControllerRoute(
+                    name: "p1",
+                    pattern: "{controller}/{action}/{para1}"
+                    );
+            });
+
+
+
+
+
+
+
+

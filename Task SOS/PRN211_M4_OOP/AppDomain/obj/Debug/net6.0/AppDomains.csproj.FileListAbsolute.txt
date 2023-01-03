@@ -1,0 +1,15 @@
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\AppDomain\bin\Debug\net6.0\AppDomains.exe
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\AppDomain\bin\Debug\net6.0\AppDomains.deps.json
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\AppDomain\bin\Debug\net6.0\AppDomains.runtimeconfig.json
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\AppDomain\bin\Debug\net6.0\AppDomains.dll
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\AppDomain\bin\Debug\net6.0\AppDomains.pdb
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\AppDomain\obj\Debug\net6.0\AppDomains.csproj.AssemblyReference.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\AppDomain\obj\Debug\net6.0\AppDomains.GeneratedMSBuildEditorConfig.editorconfig
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\AppDomain\obj\Debug\net6.0\AppDomains.AssemblyInfoInputs.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\AppDomain\obj\Debug\net6.0\AppDomains.AssemblyInfo.cs
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\AppDomain\obj\Debug\net6.0\AppDomains.csproj.CoreCompileInputs.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\AppDomain\obj\Debug\net6.0\AppDomains.dll
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\AppDomain\obj\Debug\net6.0\refint\AppDomains.dll
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\AppDomain\obj\Debug\net6.0\AppDomains.pdb
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\AppDomain\obj\Debug\net6.0\AppDomains.genruntimeconfig.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\AppDomain\obj\Debug\net6.0\ref\AppDomains.dll

@@ -1,0 +1,38 @@
+﻿
+@using Q3.Models
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- mobile metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="~/css/StyleSheet.css">
+</head>
+<body>
+    <h1>List of employees</h1>
+    <div>
+        <table>
+            <thead>
+            <th>Name</th>
+            <th>Sex</th>
+            <th>Position</th>
+            <th>Action</th>
+            </thead>
+            <tbody>
+                @foreach (Employee s in @Model)
+                {
+                    <tr>
+                        <td>@s.Name</td>
+                        <td>@s.Sex</td>
+                        <td>@s.Position</td>
+                        <td><a href="Delete/@s.Id">Delete</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

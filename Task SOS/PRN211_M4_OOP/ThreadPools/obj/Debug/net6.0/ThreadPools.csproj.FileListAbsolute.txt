@@ -1,0 +1,15 @@
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ThreadPools\bin\Debug\net6.0\ThreadPools.exe
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ThreadPools\bin\Debug\net6.0\ThreadPools.deps.json
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ThreadPools\bin\Debug\net6.0\ThreadPools.runtimeconfig.json
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ThreadPools\bin\Debug\net6.0\ThreadPools.dll
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ThreadPools\bin\Debug\net6.0\ThreadPools.pdb
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ThreadPools\obj\Debug\net6.0\ThreadPools.csproj.AssemblyReference.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ThreadPools\obj\Debug\net6.0\ThreadPools.GeneratedMSBuildEditorConfig.editorconfig
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ThreadPools\obj\Debug\net6.0\ThreadPools.AssemblyInfoInputs.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ThreadPools\obj\Debug\net6.0\ThreadPools.AssemblyInfo.cs
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ThreadPools\obj\Debug\net6.0\ThreadPools.csproj.CoreCompileInputs.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ThreadPools\obj\Debug\net6.0\ThreadPools.dll
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ThreadPools\obj\Debug\net6.0\refint\ThreadPools.dll
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ThreadPools\obj\Debug\net6.0\ThreadPools.pdb
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ThreadPools\obj\Debug\net6.0\ThreadPools.genruntimeconfig.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ThreadPools\obj\Debug\net6.0\ref\ThreadPools.dll

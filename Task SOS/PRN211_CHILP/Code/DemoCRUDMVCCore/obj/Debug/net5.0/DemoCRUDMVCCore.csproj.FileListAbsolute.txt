@@ -1,0 +1,136 @@
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\appsettings.Development.json
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\appsettings.json
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\DemoCRUDMVCCore.exe
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\DemoCRUDMVCCore.deps.json
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\DemoCRUDMVCCore.runtimeconfig.json
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\DemoCRUDMVCCore.runtimeconfig.dev.json
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\DemoCRUDMVCCore.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\ref\DemoCRUDMVCCore.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\DemoCRUDMVCCore.pdb
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\Humanizer.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.csproj.AssemblyReference.cache
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.AssemblyInfoInputs.cache
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.AssemblyInfo.cs
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.csproj.CoreCompileInputs.cache
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.MvcApplicationPartsAssemblyInfo.cache
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\obj\Debug\net5.0\staticwebassets\DemoCRUDMVCCore.StaticWebAssets.Manifest.cache
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\obj\Debug\net5.0\staticwebassets\DemoCRUDMVCCore.StaticWebAssets.xml
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\obj\Debug\net5.0\scopedcss\bundle\DemoCRUDMVCCore.styles.css
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.RazorTargetAssemblyInfo.cache
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.csproj.CopyComplete
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\obj\Debug\net5.0\ref\DemoCRUDMVCCore.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.pdb
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.genruntimeconfig.cache
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\DemoCRUDMVCCore.Views.dll
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\bin\Debug\net5.0\DemoCRUDMVCCore.Views.pdb
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.RazorAssemblyInfo.cache
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.RazorAssemblyInfo.cs
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.TagHelpers.input.cache
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.TagHelpers.output.cache
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.RazorCoreGenerate.cache
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\obj\Debug\net5.0\Razor\Views\Course\Detail.cshtml.g.cs
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\obj\Debug\net5.0\Razor\Views\Course\Edit.cshtml.g.cs
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\obj\Debug\net5.0\Razor\Views\Course\List.cshtml.g.cs
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.RazorTargetAssemblyInfo.cs
+D:\CodeDemo\PRN211\SE1619-Solution\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.Views.pdb
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\appsettings.Development.json
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\appsettings.json
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\DemoCRUDMVCCore.StaticWebAssets.xml
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\DemoCRUDMVCCore.exe
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\DemoCRUDMVCCore.deps.json
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\DemoCRUDMVCCore.runtimeconfig.json
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\DemoCRUDMVCCore.runtimeconfig.dev.json
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\DemoCRUDMVCCore.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\DemoCRUDMVCCore.pdb
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\DemoCRUDMVCCore.Views.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\DemoCRUDMVCCore.Views.pdb
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\Humanizer.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.csproj.AssemblyReference.cache
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.AssemblyInfoInputs.cache
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.AssemblyInfo.cs
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.csproj.CoreCompileInputs.cache
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.MvcApplicationPartsAssemblyInfo.cache
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.RazorAssemblyInfo.cache
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.RazorAssemblyInfo.cs
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\obj\Debug\net5.0\scopedcss\bundle\DemoCRUDMVCCore.styles.css
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\obj\Debug\net5.0\staticwebassets\DemoCRUDMVCCore.StaticWebAssets.Manifest.cache
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.TagHelpers.input.cache
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.TagHelpers.output.cache
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.RazorCoreGenerate.cache
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\obj\Debug\net5.0\Razor\Views\Course\Detail.cshtml.g.cs
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\obj\Debug\net5.0\Razor\Views\Course\Edit.cshtml.g.cs
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\obj\Debug\net5.0\Razor\Views\Course\List.cshtml.g.cs
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.RazorTargetAssemblyInfo.cache
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.RazorTargetAssemblyInfo.cs
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.Views.pdb
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.csproj.CopyComplete
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\obj\Debug\net5.0\refint\DemoCRUDMVCCore.dll
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.pdb
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\obj\Debug\net5.0\DemoCRUDMVCCore.genruntimeconfig.cache
+D:\FPT University\SUMMER 2022\PRN211\DemoCRUDMVCCore\obj\Debug\net5.0\ref\DemoCRUDMVCCore.dll

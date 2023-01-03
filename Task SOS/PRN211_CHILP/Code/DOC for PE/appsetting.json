@@ -1,0 +1,7 @@
+{
+  "ConnectionStrings": {
+    "StudentConStr": "server=TIEN-ANH-NH; database=SE1619_Demo; user=sa; password=123456"
+  }
+}
+
+

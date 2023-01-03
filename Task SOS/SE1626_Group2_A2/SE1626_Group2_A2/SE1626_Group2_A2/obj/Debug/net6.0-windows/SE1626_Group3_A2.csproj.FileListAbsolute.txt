@@ -1,0 +1,134 @@
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\SE1626_Group3_A2.exe
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\SE1626_Group3_A2.deps.json
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\SE1626_Group3_A2.runtimeconfig.json
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\SE1626_Group3_A2.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\SE1626_Group3_A2.pdb
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.csproj.AssemblyReference.cache
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.csproj.GenerateResource.cache
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.AssemblyInfoInputs.cache
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.AssemblyInfo.cs
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.csproj.CoreCompileInputs.cache
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.csproj.CopyComplete
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\refint\SE1626_Group3_A2.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.pdb
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.genruntimeconfig.cache
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\ref\SE1626_Group3_A2.dll
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.GUI.MainGUI.resources
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.GUI.AlbumAddEditGUI.resources
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.GUI.CartGUI.resources
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.GUI.CheckoutGUI.resources
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.GUI.LoginGUI.resources
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Assets\Images\placeholder.gif
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.GUI.ShoppingGUI.resources
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.Properties.Resources.resources
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.GUI.AlbumGUI.resources
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Assets\Images\bigbang.png
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Assets\Images\bornPink.png
+C:\Users\Dat Lai\Desktop\Ass2V2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Assets\Images\bts.png
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\appsettings.json
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Assets\Images\bigbang.png
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Assets\Images\bornPink.png
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Assets\Images\bts.png
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Assets\Images\placeholder.gif
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\SE1626_Group3_A2.exe
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\SE1626_Group3_A2.deps.json
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\SE1626_Group3_A2.runtimeconfig.json
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\SE1626_Group3_A2.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\SE1626_Group3_A2.pdb
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Humanizer.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.csproj.AssemblyReference.cache
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.GUI.AlbumAddEditGUI.resources
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.GUI.AlbumGUI.resources
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.GUI.CartGUI.resources
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.GUI.CheckoutGUI.resources
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.GUI.LoginGUI.resources
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.GUI.MainGUI.resources
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.GUI.ShoppingGUI.resources
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.Properties.Resources.resources
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.csproj.GenerateResource.cache
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.AssemblyInfoInputs.cache
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.AssemblyInfo.cs
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.csproj.CoreCompileInputs.cache
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.csproj.CopyComplete
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\refint\SE1626_Group3_A2.dll
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.pdb
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\SE1626_Group3_A2.genruntimeconfig.cache
+D:\.net\ass2\assignment_2\SE1626_Group3_A2\SE1626_Group3_A2\obj\Debug\net6.0-windows\ref\SE1626_Group3_A2.dll

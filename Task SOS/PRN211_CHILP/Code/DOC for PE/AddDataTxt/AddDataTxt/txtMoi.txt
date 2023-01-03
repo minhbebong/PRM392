@@ -1,0 +1,11 @@
+1|Dang Thanh|SE|12/Jun/2022|2015|11.4
+2|Dang Thanh|SE|12/Jun/2022|2014|14.3
+3|Dang Thanh|SE|12/Jun/2022|2016|12
+4|Dang Thanh|SE|12/Jun/2022|2017|13
+5|Dang Thanh|SE|12/Jun/2022|2019|12
+6|Dang Thanh|SE|12/Jun/2022|2015|11
+7|Dang Thanh|SE|12/Jun/2022|2019|13
+8|thanh dat|MKT|13/Jun/2015|2016|82
+9|hoang mai|IA|13/Jun/2022|2018|84
+10|aaaa|FE|13/Jun/2022|2017|0
+11|HOang nam|TR|13/Jun/2022|2018|0

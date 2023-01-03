@@ -1,0 +1,15 @@
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ReadOnly\bin\Debug\net6.0\ReadOnly.exe
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ReadOnly\bin\Debug\net6.0\ReadOnly.deps.json
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ReadOnly\bin\Debug\net6.0\ReadOnly.runtimeconfig.json
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ReadOnly\bin\Debug\net6.0\ReadOnly.dll
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ReadOnly\bin\Debug\net6.0\ReadOnly.pdb
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ReadOnly\obj\Debug\net6.0\ReadOnly.csproj.AssemblyReference.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ReadOnly\obj\Debug\net6.0\ReadOnly.GeneratedMSBuildEditorConfig.editorconfig
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ReadOnly\obj\Debug\net6.0\ReadOnly.AssemblyInfoInputs.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ReadOnly\obj\Debug\net6.0\ReadOnly.AssemblyInfo.cs
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ReadOnly\obj\Debug\net6.0\ReadOnly.csproj.CoreCompileInputs.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ReadOnly\obj\Debug\net6.0\ReadOnly.dll
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ReadOnly\obj\Debug\net6.0\refint\ReadOnly.dll
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ReadOnly\obj\Debug\net6.0\ReadOnly.pdb
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ReadOnly\obj\Debug\net6.0\ReadOnly.genruntimeconfig.cache
+E:\University_FPT\2021_PRN211\2022\Practice\PRN211_M4_OOP\ReadOnly\obj\Debug\net6.0\ref\ReadOnly.dll

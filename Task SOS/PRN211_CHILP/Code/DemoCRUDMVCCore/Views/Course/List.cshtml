@@ -1,0 +1,54 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@using DemoCRUDMVCCore.Models
+@model List<Course>
+
+<div>
+    <div>
+        <form action="/Course/List" method="post">
+            <select name="id" onchange="this.form.submit();">
+                <option value="0" @(ViewBag.CurSubject==0?"selected":"")>All Subjects</option>
+                @foreach (Subject s in ViewBag.Subjects)
+                {
+                    <option value="@s.SubjectId" @(ViewBag.CurSubject==s.SubjectId?"selected":"")>@s.SubjectName</option>
+                }
+            </select>
+        </form>
+    </div>
+    <div>
+        @if(Model.Count == 0)
+            {
+                <p>Subject nay khong co course nao</p>
+        }
+        else
+            {
+                <div>
+                    <h2>
+                        List of courses:
+                    </h2>
+                    <table>
+                        <tr>
+                            <th>CourseCode</th>
+                            <th>CourseDescription</th>
+                            <th>Subject</th>
+                            <th></th>
+                            <th></th>
+                            <th></th>
+                        </tr>
+                        @foreach(Course c in Model)
+                        {
+                            <tr>
+                                <td>@c.CourseCode</td>
+                                <td>@c.CourseDescription</td>
+                                <td>@c.Subject.SubjectName</td>
+                                <td><a href="/Course/Detail/@c.CourseId">Detail</a></td>
+                                <td><a href="/Course/Edit/@c.CourseId">Edit</a></td>
+                                <td><a href="/Course/DoDelete/@c.CourseId">Delete</a></td>
+                            </tr>
+                        }
+                    </table>
+                </div>
+            }
+    </div>
+</div>

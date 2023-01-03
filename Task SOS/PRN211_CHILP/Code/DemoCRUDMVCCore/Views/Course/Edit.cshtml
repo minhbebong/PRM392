@@ -1,0 +1,27 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@using DemoCRUDMVCCore.Models
+@model Course
+
+<div>
+    @if(Model is null)
+            {
+                <p>Khong ton tai course nay</p>
+    }
+    else
+    {
+<form action="/Course/DoEdit" method="post">
+    <input type="hidden" name="NewCourse.CourseId" value="@Model.CourseId" />
+    <input type="text" name="NewCourse.CourseCode" value="@Model.CourseCode" />
+    <input type="text" name="NewCourse.CourseDescription" value="@Model.CourseDescription" />
+    <select name="NewCourse.SubjectId" >
+        @foreach (Subject s in ViewBag.Subjects)
+        {
+            <option value="@s.SubjectId" @(Model.SubjectId == s.SubjectId ? "selected" : "")>@s.SubjectName</option>
+        }
+    </select>
+    <input type="submit" value="Edit" />
+</form>
+    }
+</div>

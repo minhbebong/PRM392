@@ -1,0 +1,32 @@
+D:\CodeDemo\PRN211\SE1619-Solution\Exercise 11.5\bin\Debug\net5.0\Exercise 11.5.exe
+D:\CodeDemo\PRN211\SE1619-Solution\Exercise 11.5\bin\Debug\net5.0\Exercise 11.5.deps.json
+D:\CodeDemo\PRN211\SE1619-Solution\Exercise 11.5\bin\Debug\net5.0\Exercise 11.5.runtimeconfig.json
+D:\CodeDemo\PRN211\SE1619-Solution\Exercise 11.5\bin\Debug\net5.0\Exercise 11.5.runtimeconfig.dev.json
+D:\CodeDemo\PRN211\SE1619-Solution\Exercise 11.5\bin\Debug\net5.0\Exercise 11.5.dll
+D:\CodeDemo\PRN211\SE1619-Solution\Exercise 11.5\bin\Debug\net5.0\ref\Exercise 11.5.dll
+D:\CodeDemo\PRN211\SE1619-Solution\Exercise 11.5\bin\Debug\net5.0\Exercise 11.5.pdb
+D:\CodeDemo\PRN211\SE1619-Solution\Exercise 11.5\obj\Debug\net5.0\Exercise 11.5.csproj.AssemblyReference.cache
+D:\CodeDemo\PRN211\SE1619-Solution\Exercise 11.5\obj\Debug\net5.0\Exercise 11.5.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeDemo\PRN211\SE1619-Solution\Exercise 11.5\obj\Debug\net5.0\Exercise 11.5.AssemblyInfoInputs.cache
+D:\CodeDemo\PRN211\SE1619-Solution\Exercise 11.5\obj\Debug\net5.0\Exercise 11.5.AssemblyInfo.cs
+D:\CodeDemo\PRN211\SE1619-Solution\Exercise 11.5\obj\Debug\net5.0\Exercise 11.5.csproj.CoreCompileInputs.cache
+D:\CodeDemo\PRN211\SE1619-Solution\Exercise 11.5\obj\Debug\net5.0\Exercise 11.5.dll
+D:\CodeDemo\PRN211\SE1619-Solution\Exercise 11.5\obj\Debug\net5.0\ref\Exercise 11.5.dll
+D:\CodeDemo\PRN211\SE1619-Solution\Exercise 11.5\obj\Debug\net5.0\Exercise 11.5.pdb
+D:\CodeDemo\PRN211\SE1619-Solution\Exercise 11.5\obj\Debug\net5.0\Exercise 11.5.genruntimeconfig.cache
+D:\FPT University\SUMMER 2022\PRN211\Exercise 11.5\bin\Debug\net5.0\Exercise 11.5.exe
+D:\FPT University\SUMMER 2022\PRN211\Exercise 11.5\bin\Debug\net5.0\Exercise 11.5.deps.json
+D:\FPT University\SUMMER 2022\PRN211\Exercise 11.5\bin\Debug\net5.0\Exercise 11.5.runtimeconfig.json
+D:\FPT University\SUMMER 2022\PRN211\Exercise 11.5\bin\Debug\net5.0\Exercise 11.5.runtimeconfig.dev.json
+D:\FPT University\SUMMER 2022\PRN211\Exercise 11.5\bin\Debug\net5.0\Exercise 11.5.dll
+D:\FPT University\SUMMER 2022\PRN211\Exercise 11.5\bin\Debug\net5.0\Exercise 11.5.pdb
+D:\FPT University\SUMMER 2022\PRN211\Exercise 11.5\obj\Debug\net5.0\Exercise 11.5.csproj.AssemblyReference.cache
+D:\FPT University\SUMMER 2022\PRN211\Exercise 11.5\obj\Debug\net5.0\Exercise 11.5.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT University\SUMMER 2022\PRN211\Exercise 11.5\obj\Debug\net5.0\Exercise 11.5.AssemblyInfoInputs.cache
+D:\FPT University\SUMMER 2022\PRN211\Exercise 11.5\obj\Debug\net5.0\Exercise 11.5.AssemblyInfo.cs
+D:\FPT University\SUMMER 2022\PRN211\Exercise 11.5\obj\Debug\net5.0\Exercise 11.5.csproj.CoreCompileInputs.cache
+D:\FPT University\SUMMER 2022\PRN211\Exercise 11.5\obj\Debug\net5.0\Exercise 11.5.dll
+D:\FPT University\SUMMER 2022\PRN211\Exercise 11.5\obj\Debug\net5.0\refint\Exercise 11.5.dll
+D:\FPT University\SUMMER 2022\PRN211\Exercise 11.5\obj\Debug\net5.0\Exercise 11.5.pdb
+D:\FPT University\SUMMER 2022\PRN211\Exercise 11.5\obj\Debug\net5.0\Exercise 11.5.genruntimeconfig.cache
+D:\FPT University\SUMMER 2022\PRN211\Exercise 11.5\obj\Debug\net5.0\ref\Exercise 11.5.dll

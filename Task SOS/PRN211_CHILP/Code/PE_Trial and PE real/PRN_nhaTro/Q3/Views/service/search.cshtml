@@ -1,0 +1,47 @@
+﻿@using Q3.Controllers
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<Service>
+
+    <form action="/service/dosearch" method="post">
+      Room title  <input type="text" value="@ViewBag.ser.title" name="SearchSe.title" />
+      Month  <input type="text" value="@ViewBag.ser.Month" name="SearchSe.Month" />
+
+        <input type="submit" value="Search"  />
+    </form>
+
+
+    <table border="1">
+        <thead>
+            <th>RoomTitle</th>
+            <th>FeeType</th>
+            <th>Month</th>
+            <th>Year</th>
+            <th>Amount</th>
+            <th></th>
+        </thead>
+        <tbody>
+        @foreach(Service o in Model)
+        {
+            <tr>
+                <td>@o.title</td>
+                <td>@o.FeeType</td>
+                <td>@o.Month</td>
+                <td>@o.Year</td>
+                <td>@o.Amount</td>
+                <td>@if(string.IsNullOrEmpty(o.name)){
+                        <span>Not pay yet</span>
+                    }
+                    else
+                    {
+               <span>   Services has been paid. Employee:    @o.name</span>  
+                    }
+                    
+                    </td>
+            </tr>
+        }
+        </tbody>
+    </table>

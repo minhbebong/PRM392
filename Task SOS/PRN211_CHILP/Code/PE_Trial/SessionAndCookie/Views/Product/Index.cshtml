@@ -1,0 +1,39 @@
+﻿@using SessionAndCookie.Models
+<style>
+
+    .viewAll {
+        text-align: center;
+    }
+</style>
+<h1>View all product: </h1>
+<ul style="text-align: left;">
+    <li><a href="/Product/Index/0">Show All</a></li>
+    @foreach(Category ca in @ViewBag.lstCategories){
+        <li><a href="/Product/Index/@ca.CategoryId">@ca.CategoryName</a></li>
+    }
+</ul>
+
+<div class="viewAll">
+    <a href="#">Show cart</a>
+    <table border="1">
+        <thead>
+            <th>Name</th>
+            <th>UnitPrice</th>
+            <th>UnitInStocks</th>
+            <th>UnitOnOrders</th>
+            <th>Add to cart</th>
+        </thead>
+        <tbody>
+            @foreach (Product pr in @Model)
+            {
+                <tr>
+                    <td>@pr.ProductName</td>
+                    <td>@pr.UnitPrice</td>
+                    <td>@pr.UnitsInStock</td>
+                    <td>@pr.UnitsOnOrder</td>
+                    <td><a href="#">Add</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
