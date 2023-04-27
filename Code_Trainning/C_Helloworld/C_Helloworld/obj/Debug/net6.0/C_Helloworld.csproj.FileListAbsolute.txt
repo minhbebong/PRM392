@@ -1,0 +1,15 @@
+E:\Documents\GitHub\PRN211\Code_Trainning\C_Helloworld\C_Helloworld\bin\Debug\net6.0\C_Helloworld.exe
+E:\Documents\GitHub\PRN211\Code_Trainning\C_Helloworld\C_Helloworld\bin\Debug\net6.0\C_Helloworld.deps.json
+E:\Documents\GitHub\PRN211\Code_Trainning\C_Helloworld\C_Helloworld\bin\Debug\net6.0\C_Helloworld.runtimeconfig.json
+E:\Documents\GitHub\PRN211\Code_Trainning\C_Helloworld\C_Helloworld\bin\Debug\net6.0\C_Helloworld.dll
+E:\Documents\GitHub\PRN211\Code_Trainning\C_Helloworld\C_Helloworld\bin\Debug\net6.0\C_Helloworld.pdb
+E:\Documents\GitHub\PRN211\Code_Trainning\C_Helloworld\C_Helloworld\obj\Debug\net6.0\C_Helloworld.csproj.AssemblyReference.cache
+E:\Documents\GitHub\PRN211\Code_Trainning\C_Helloworld\C_Helloworld\obj\Debug\net6.0\C_Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\GitHub\PRN211\Code_Trainning\C_Helloworld\C_Helloworld\obj\Debug\net6.0\C_Helloworld.AssemblyInfoInputs.cache
+E:\Documents\GitHub\PRN211\Code_Trainning\C_Helloworld\C_Helloworld\obj\Debug\net6.0\C_Helloworld.AssemblyInfo.cs
+E:\Documents\GitHub\PRN211\Code_Trainning\C_Helloworld\C_Helloworld\obj\Debug\net6.0\C_Helloworld.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\PRN211\Code_Trainning\C_Helloworld\C_Helloworld\obj\Debug\net6.0\C_Helloworld.dll
+E:\Documents\GitHub\PRN211\Code_Trainning\C_Helloworld\C_Helloworld\obj\Debug\net6.0\refint\C_Helloworld.dll
+E:\Documents\GitHub\PRN211\Code_Trainning\C_Helloworld\C_Helloworld\obj\Debug\net6.0\C_Helloworld.pdb
+E:\Documents\GitHub\PRN211\Code_Trainning\C_Helloworld\C_Helloworld\obj\Debug\net6.0\C_Helloworld.genruntimeconfig.cache
+E:\Documents\GitHub\PRN211\Code_Trainning\C_Helloworld\C_Helloworld\obj\Debug\net6.0\ref\C_Helloworld.dll

@@ -1,0 +1,15 @@
+E:\Documents\GitHub\PRN211\Code_Trainning\CS002\bin\Debug\net6.0\CS002.exe
+E:\Documents\GitHub\PRN211\Code_Trainning\CS002\bin\Debug\net6.0\CS002.deps.json
+E:\Documents\GitHub\PRN211\Code_Trainning\CS002\bin\Debug\net6.0\CS002.runtimeconfig.json
+E:\Documents\GitHub\PRN211\Code_Trainning\CS002\bin\Debug\net6.0\CS002.dll
+E:\Documents\GitHub\PRN211\Code_Trainning\CS002\bin\Debug\net6.0\CS002.pdb
+E:\Documents\GitHub\PRN211\Code_Trainning\CS002\obj\Debug\net6.0\CS002.csproj.AssemblyReference.cache
+E:\Documents\GitHub\PRN211\Code_Trainning\CS002\obj\Debug\net6.0\CS002.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\GitHub\PRN211\Code_Trainning\CS002\obj\Debug\net6.0\CS002.AssemblyInfoInputs.cache
+E:\Documents\GitHub\PRN211\Code_Trainning\CS002\obj\Debug\net6.0\CS002.AssemblyInfo.cs
+E:\Documents\GitHub\PRN211\Code_Trainning\CS002\obj\Debug\net6.0\CS002.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\PRN211\Code_Trainning\CS002\obj\Debug\net6.0\CS002.dll
+E:\Documents\GitHub\PRN211\Code_Trainning\CS002\obj\Debug\net6.0\refint\CS002.dll
+E:\Documents\GitHub\PRN211\Code_Trainning\CS002\obj\Debug\net6.0\CS002.pdb
+E:\Documents\GitHub\PRN211\Code_Trainning\CS002\obj\Debug\net6.0\CS002.genruntimeconfig.cache
+E:\Documents\GitHub\PRN211\Code_Trainning\CS002\obj\Debug\net6.0\ref\CS002.dll

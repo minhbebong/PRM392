@@ -1,0 +1,5 @@
+E:\Documents\GitHub\PRN211\Code_Trainning\CS002\bin\Debug\net6.0\publish\CS002.exe
+E:\Documents\GitHub\PRN211\Code_Trainning\CS002\bin\Debug\net6.0\publish\CS002.dll
+E:\Documents\GitHub\PRN211\Code_Trainning\CS002\bin\Debug\net6.0\publish\CS002.deps.json
+E:\Documents\GitHub\PRN211\Code_Trainning\CS002\bin\Debug\net6.0\publish\CS002.runtimeconfig.json
+E:\Documents\GitHub\PRN211\Code_Trainning\CS002\bin\Debug\net6.0\publish\CS002.pdb
