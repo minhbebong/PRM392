@@ -1,0 +1,11 @@
+E:\Documents\GitHub\PRN211\WinformC\Slide1\Slide1\bin\Debug\Slide1.exe.config
+E:\Documents\GitHub\PRN211\WinformC\Slide1\Slide1\bin\Debug\Slide1.exe
+E:\Documents\GitHub\PRN211\WinformC\Slide1\Slide1\bin\Debug\Slide1.pdb
+E:\Documents\GitHub\PRN211\WinformC\Slide1\Slide1\obj\Debug\Slide1.csproj.AssemblyReference.cache
+E:\Documents\GitHub\PRN211\WinformC\Slide1\Slide1\obj\Debug\Slide1.csproj.SuggestedBindingRedirects.cache
+E:\Documents\GitHub\PRN211\WinformC\Slide1\Slide1\obj\Debug\Slide1.Form1.resources
+E:\Documents\GitHub\PRN211\WinformC\Slide1\Slide1\obj\Debug\Slide1.Properties.Resources.resources
+E:\Documents\GitHub\PRN211\WinformC\Slide1\Slide1\obj\Debug\Slide1.csproj.GenerateResource.cache
+E:\Documents\GitHub\PRN211\WinformC\Slide1\Slide1\obj\Debug\Slide1.csproj.CoreCompileInputs.cache
+E:\Documents\GitHub\PRN211\WinformC\Slide1\Slide1\obj\Debug\Slide1.exe
+E:\Documents\GitHub\PRN211\WinformC\Slide1\Slide1\obj\Debug\Slide1.pdb
